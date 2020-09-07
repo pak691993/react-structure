@@ -1,0 +1,36 @@
+{
+	"editor.formatOnSave": false,
+	"[javascript]": {
+		"editor.formatOnSave": false
+	},
+	"[javascriptreact]": {
+		"editor.formatOnSave": false
+	},
+	"[html]": {
+		"editor.formatOnSave": false
+	},
+	"[scss]": {
+		"editor.formatOnSave": false
+	},
+	"[css]": {
+		"editor.formatOnSave": false
+	},
+	"editor.tabSize": 2,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": false,
+	"editor.rulers": [
+    {
+        "column": 79,
+        "color": "#9C9C9C"
+    },
+    //   100, // <- a ruler in the default color or as customized at column 0
+    // {
+    //     "column": 100,
+    //     "color": "#E8EB32"
+    // },
+    // {
+    //     "column": 120,
+    //     "color": "#05927F"
+    // },
+],
+}
